@@ -1,7 +1,7 @@
 # Site settings
 title:  Blog
 SEOTitle: GDCzhou的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/bg.jpg
 email: 996078450@qq.com
 description: "尝试"
 keyword: "vue vite react ts"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/GDCzhou/GDCzhou.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avavr.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
